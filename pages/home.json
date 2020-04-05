@@ -1,0 +1,26 @@
+{
+    "slide1": {
+        "header": "Welcome to My Coffee Shop!",
+        "subtext": "I hope you enjoy my wide selection of coffee",
+        "img_background": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6R9ASksQhHLBp8Ara-7W0DyZWT8ppzl1SZbUQD5NGPlkNtXAt&usqp=CAU"
+
+    },
+    "slide2": {
+        "header": "Only the best coffee",
+        "subtext": "We brew only the best coffee",
+        "img_background": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Ffield%2Fimage%2Fgettyimages-505377774.jpg%3Fitok%3D4L2lDRrq"
+       
+        },
+        "about": {
+            "header": "Welcome to My Coffee Shop!",
+            "text": "The first U.S. coffee shop of world renowned barista and latte art expert Hiroshi Sawada. The industrial style café features a wall of windows facing Green Street and includes a custom painted espresso machine, wooden ping pong table, pinball machine, and punching bag. Guests can order from a curated menu of expertly crafted espresso and matcha-based drinks, including military lattes, cortados, cappuccinos, and boozy steamers, paired with a selection of camouflage Doughnut Vault doughnuts.",
+            "img_main": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSLL9HeEvb1l5gR28-b9wE6AjXlD3U8R8lA_Psu92ih5KOuVVN-&usqp=CAU",
+            "why": {
+                "text": "Why Choose Us?",
+                "first": {"caption":"freshest beans", "img_icon":"https://assets.bonappetit.com/photos/5c366551f212512d0e6cefd0/master/pass/Basically-Coffee-0219-03.jpg"},
+                "second": {"caption":"many choices", "img_icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnjvwAZDqOmJmTpqxUOORPnttk0hiEV3NBZmRvpiEp2T41UuHP&usqp=CAU"},
+                "third": {"caption":"friendly staff", "img_icon":"https://bostonfoodsafety.com/wp-content/uploads/2018/03/Young-Coffee-Shop-Staff-1.png"}
+            }
+        }
+
+    }
